@@ -40,4 +40,9 @@ public class Drink {
     public void setImagenResourceId(int imagenResourceId) {
         this.imagenResourceId = imagenResourceId;
     }
+
+    @Override
+    public String toString() {
+        return nombre;
+    }
 }
