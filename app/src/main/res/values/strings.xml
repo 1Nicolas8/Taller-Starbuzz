@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">starbuzz</string>
+    <string name="starbuzz_logo">Logo del StarBuzz Coffe</string>
+    <string-array name="opciones">
+        <item>Bebidas</item>
+        <item>Alimentos</item>
+        <item>Lugares</item>
+    </string-array>
+</resources>
